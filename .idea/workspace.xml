@@ -1,7 +1,391 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d07f199-3b4b-4463-b508-7f10a676d7fb" name="Default Changelist" comment="" />
+    <list default="true" id="1d07f199-3b4b-4463-b508-7f10a676d7fb" name="Default Changelist" comment="old site">
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1111.htaccess_redirect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OLD.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/Pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/animation-phone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/check_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/images/work_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/jquery.fullPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/prettyPhoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Bebas Neue Book.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BebasNeue Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/BebasNeue Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SF UI Text Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SF UI Text Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SF UI Text Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SF UI Text Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/SF UI Text Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/video1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ForexEditBG2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/GettyImages-188053073-579275965f9b58cdf3081da6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Web-YouTube-alt-1-Metro-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/about_iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/basics-trading-orderflow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/client_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/client_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/client_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/download_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/find-out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/forward-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/fun_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/guarantee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/hand.jpg-" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home-old2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/homeold2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iPhone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iPhone02old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iPhone_Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/iphone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo-old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/play1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/poster-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sdg-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/speaker-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/speaker-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/speaker-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sssss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/subscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/testimonial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/video6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/work_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/forma-sviazi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage/jquery.easings.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage/jquery.fullPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage/jquery.fullPage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/fullpage/scrolloverflow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.langs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.fitvids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.fullPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.parallax-1.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/smoothscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/novichok.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/Pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/animation-phone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/images/work_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/jquery.fullPage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/prettyPhoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/css/style2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/Bebas Neue Book.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/BebasNeue Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/BebasNeue Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/SF UI Text Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/SF UI Text Heavy.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/SF UI Text Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/SF UI Text Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/SF UI Text Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/ForexEditBG2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/GettyImages-188053073-579275965f9b58cdf3081da6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/Web-YouTube-alt-1-Metro-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/about_iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/basics-trading-orderflow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/client_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/client_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/client_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/download_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/find-out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/fun_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/guarantee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/hand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/hand.jpg-" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/home-old2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/home3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/home4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/homeold2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iPhone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iPhone02old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iPhone_Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/iphone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/logo-old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/play1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/poster-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/sdg-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/speaker-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/speaker-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/speaker-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/sssss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/subscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/testimonial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/video6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/images/work_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/ForexEditBG2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/Web-YouTube-alt-1-Metro-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/about_iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/basics-trading-orderflow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/client_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/client_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/client_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/download_screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/find-out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/fun_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/guarantee.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/hand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/hand.jpg-" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/home-old2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/home3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/home4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/homeold2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iPhone02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iPhone02old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iPhone_Home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/iphone09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/logo-old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/men.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/play1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/poster-video.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/sdg-book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/speaker-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/speaker-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/speaker-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/sssss.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/subscribe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/testimonial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/video1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/video2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/video3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/video4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/video5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/vk.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/imagesorigin/work_arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/forma-sviazi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/fullpage/jquery.easings.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/fullpage/jquery.fullPage.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/fullpage/jquery.fullpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/fullpage/scrolloverflow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.ajaxchimp.langs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.fitvids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.parallax-1.1.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/smoothscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/novichok.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/opitniy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/typagenew.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/typageold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/Analiz-nedeli-oles-razbor.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/Na_lp_video.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/Otchetniy-period-oles.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/kolomiec-brif.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/oles-analiz.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/video-new.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/old/videos/videoSDG.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opitniy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/shutterstock_1209068188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/tl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-site.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-site2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-vebinar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/ty-icon-youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/images/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-edu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/shutterstock_1209068188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/tl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-site.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-site2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-vebinar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/ty-icon-youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/images/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-event/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/fs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/gp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/shutterstock_1209068188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/tl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/tw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-article.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-mail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-site.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-site2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-vebinar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/ty-icon-youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/vk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/images/yt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ty-request/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typagenew.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typagenew2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typageold.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typageold2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/Analiz-nedeli-oles-razbor.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/Na_lp_video.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/kolomiec-brif.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/oles-analiz.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/video-new.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/videos/videoSDG.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +423,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583226699745</updated>
-      <workItem from="1583226701145" duration="857000" />
+      <workItem from="1583226701145" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1583226759409</created>
@@ -55,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583226784540</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="old site">
+      <created>1583227588595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583227588595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +465,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="old site" />
+    <option name="LAST_COMMIT_MESSAGE" value="old site" />
   </component>
 </project>

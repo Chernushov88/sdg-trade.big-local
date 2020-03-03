@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase / 
+RewriteRule ^/novichok$ https://sdg-trade.com/lp/gold/novichok [R=301,L]
+RewriteRule ^/opitniy$ https://sdg-trade.com/lp/gold/opitniy [R=301,L]
+RewriteRule ^/typageold$ https://sdg-trade.com/lp/gold/typageold [R=301,L]
+RewriteRule ^/typagenew$ https://sdg-trade.com/lp/gold/typagenew [R=301,L]
+RewriteRule .* https://sdg-trade.com/lp/gold/ [R=301,L]
